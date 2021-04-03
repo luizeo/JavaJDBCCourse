@@ -1,0 +1,27 @@
+INDEX VERSION 1.131+E:\IFGOIANO==============\2019\ProjetosJava\AplicacaoClientes\src\.metadata\.plugins\org.eclipse.jdt.core
+3363200006.index
+827603736.index
+1407955905.index
+3841022150.index
+2829815891.index
+1224143430.index
+614363233.index
+823682579.index
+3021534174.index
+4273029917.index
+3569654591.index
+1873989104.index
+3039193926.index
+4070373471.index
+293330847.index
+661949712.index
+1125207688.index
+2554834616.index
+2142118396.index
+1025138605.index
+398280794.index
+925610343.index
+4220189260.index
+511992366.index
+2533393471.index
+517235398.index
